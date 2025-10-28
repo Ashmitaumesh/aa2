@@ -1,3 +1,3 @@
-cse
-ise
-aiml
+ece
+civil
+eee
